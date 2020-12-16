@@ -75,6 +75,11 @@ html {
   color: #fff;
 }
 
+.sidebar a:hover,
+.sidebar a:focus {
+  color: #66d9ef;
+}
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
@@ -93,7 +98,7 @@ html {
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  text-decoration: underline;
+  color: #a6e22e;
 }
 .sidebar-nav-item.active {
   font-weight: bold;
