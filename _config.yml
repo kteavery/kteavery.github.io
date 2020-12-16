@@ -1,19 +1,19 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
 
 # Setup
 title:            Kate Avery
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+# tagline:          'A Jekyll theme'
+description:      'Computer scientist and ML researcher. <br />Currently working on a <br /><a href="https://groups.cs.umass.edu/kdl/" target="_blank">PhD @ UMass Amherst</a>.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
+  name:           'Kate Avery'
   url:            https://twitter.com/mdo
 
 plugins:          [jekyll-paginate]
