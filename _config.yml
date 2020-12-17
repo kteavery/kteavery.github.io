@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Kate Avery
 # tagline:          'A Jekyll theme'
-description:      'Computer scientist and ML researcher. <br />Currently working on a <br /><a href="https://groups.cs.umass.edu/kdl/" target="_blank">PhD @ UMass Amherst</a>.'
+description:      'ML/AI Researcher <br />Currently working on a <br /><a href="https://groups.cs.umass.edu/kdl/" target="_blank">PhD @ UMass Amherst</a>.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
